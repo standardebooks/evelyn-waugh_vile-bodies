@@ -78,6 +78,27 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
+/* Begin Letters */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+/* end letters */
+
 /* Begin poetry */
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
@@ -106,6 +127,15 @@ q{
 .telegram{
 	font-style: normal;
 	font-variant: all-small-caps;
+}
+
+#dedication p{
+	font-variant: small-caps;
+	line-height: 2;
+}
+
+#dedication p span{
+	font-size: larger;
 }
 
 #chapter-2 blockquote p,
