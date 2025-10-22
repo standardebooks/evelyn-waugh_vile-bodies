@@ -131,7 +131,6 @@ q{
 
 #dedication p{
 	font-variant: small-caps;
-	line-height: 2;
 }
 
 #dedication p span{
@@ -147,5 +146,4 @@ q{
 
 #chapter-5 blockquote header p{
 	font-variant: small-caps;
-	margin-bottom: .5em;
 }
