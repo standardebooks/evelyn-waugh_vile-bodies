@@ -35,10 +35,13 @@
 		<meta property="term" refines="#subject-1">sh2008106611</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010103755</meta>
+		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Vile Bodies&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/evelyn-waugh"&gt;Evelyn Waugh’s&lt;/a&gt; second novel, for which he seems not to have held out high hopes. It was written during a period of personal trauma—the break-up of his short-lived first marriage—and many see in the novel’s fragmentary scenes and frail relationships the effects of Waugh’s deep emotional disappointments. It is also one of the most explicitly modernist of Waugh’s books.&lt;/p&gt;
+			&lt;p&gt;In spite of the author’s sobering context, the novel is full of humor and ironic detachment from sometimes tragic moments which punctuate the story. The narrative thread mostly follows the fortunes of Adam Symes, his sometime fiancée, Nina Blount, and an assortment of their friends and acquaintances—a coterie of “Bright Young People,” as Waugh sometimes refers to them collectively. Troubles with money, vagaries in society, questionable morals, and a fondness for drink dog the characters as they stumble from scene to scene.&lt;/p&gt;
+			&lt;p&gt;Later readers have found more to admire in the novel than its author did, and it remains a firm favorite among Waugh’s many fans. It was adapted for film by Stephen Fry in 2003 under the title &lt;i&gt;Bright Young Things&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190146</dc:source>
@@ -54,10 +57,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79049248</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Umberto Boccioni</dc:contributor>
+		<meta property="file-as" refines="#artist">Boccioni, Umberto</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Umberto_Boccioni</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79054518</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
