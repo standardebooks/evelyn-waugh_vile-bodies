@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-01T16:00:31Z</dc:date>
+		<meta property="dcterms:modified">2026-01-01T16:00:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,15 +39,15 @@
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Vile Bodies&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/evelyn-waugh"&gt;Evelyn Waugh’s&lt;/a&gt; second novel, for which he seems not to have held out high hopes. It was written during a period of personal trauma—the break-up of his short-lived first marriage—and many see in the novel’s fragmentary scenes and frail relationships the effects of Waugh’s deep emotional disappointments. It is also one of the most explicitly modernist of Waugh’s books.&lt;/p&gt;
-			&lt;p&gt;In spite of the author’s sobering context, the novel is full of humor and ironic detachment from sometimes tragic moments which punctuate the story. The narrative thread mostly follows the fortunes of Adam Symes, his sometime fiancée, Nina Blount, and an assortment of their friends and acquaintances—a coterie of “Bright Young People,” as Waugh sometimes refers to them collectively. Troubles with money, vagaries in society, questionable morals, and a fondness for drink dog the characters as they stumble from scene to scene.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Vile Bodies&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/evelyn-waugh"&gt;Evelyn Waugh’s&lt;/a&gt; second novel, for which he seems not to have held out high hopes. It was written during a period of personal trauma—the break-up of his short-lived first marriage—and many see in the novel’s fragmentary scenes and frail relationships the effects of Waugh’s deep emotional disappointments. It’s also one of the most explicitly modernist of Waugh’s books.&lt;/p&gt;
+			&lt;p&gt;In spite of this sobering context, the novel is full of humor and ironic detachment from the sometimes tragic moments which punctuate the story. The narrative thread mostly follows the fortunes of Adam Symes, his sometime fiancée, Nina Blount, and an assortment of their friends and acquaintances—a coterie of “Bright Young People,” as Waugh sometimes refers to them collectively. Troubles with money, vagaries in society, questionable morals, and a fondness for drink dog the characters as they stumble from scene to scene.&lt;/p&gt;
 			&lt;p&gt;Later readers have found more to admire in the novel than its author did, and it remains a firm favorite among Waugh’s many fans. It was adapted for film by Stephen Fry in 2003 under the title &lt;i&gt;Bright Young Things&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190146</dc:source>
 		<dc:source>https://archive.org/details/declinefallvileb0000evel</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">62519</meta>
+		<meta property="se:reading-ease.flesch">75.61</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Vile_Bodies</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/evelyn-waugh_vile-bodies</meta>
 		<dc:creator id="author">Evelyn Waugh</dc:creator>
@@ -85,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
